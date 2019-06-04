@@ -56,3 +56,8 @@ user agent stylesheet
 html {
     color: -internal-root-color;
 }
+* {
+  word-wrap: break-word;
+  padding-left: 40px;
+  padding-right: 40px;
+}
